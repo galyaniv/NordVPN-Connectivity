@@ -1,0 +1,5 @@
+schedule==0.6.0
+speedtest-cli==2.1.2
+pingparsing==1.0.3
+pywin32==227
+requests==2.23.0
